@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Written in Python 2
 
 import sys
 import time
