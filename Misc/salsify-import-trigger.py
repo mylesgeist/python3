@@ -5,6 +5,7 @@
 #print "######                       Begining Empty text box                                                     ######"
 #print "######                                                                                                   ######"
 #print "###############################################################################################################"
+# Written in Python 2
 import datetime
 from dateutil import tz
 import sys
